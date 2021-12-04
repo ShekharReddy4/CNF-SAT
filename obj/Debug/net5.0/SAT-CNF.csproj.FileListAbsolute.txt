@@ -1,0 +1,16 @@
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/bin/Debug/net5.0/SAT-CNF
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/bin/Debug/net5.0/SAT-CNF.deps.json
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/bin/Debug/net5.0/SAT-CNF.runtimeconfig.json
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/bin/Debug/net5.0/SAT-CNF.runtimeconfig.dev.json
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/bin/Debug/net5.0/SAT-CNF.dll
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/bin/Debug/net5.0/ref/SAT-CNF.dll
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/bin/Debug/net5.0/SAT-CNF.pdb
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.csproj.AssemblyReference.cache
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.AssemblyInfoInputs.cache
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.AssemblyInfo.cs
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.csproj.CoreCompileInputs.cache
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.dll
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/ref/SAT-CNF.dll
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.pdb
+/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/obj/Debug/net5.0/SAT-CNF.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SFPNNdT3R/HYF1wkUokFv1abYJtKtZm5HUBOm8MEQ2YKXQyxFQYaFPbCELGDmiof/O0RhQmxaCVZxAvDaQ4Dg==",
+  "success": true,
+  "projectFilePath": "/Users/shekharreddymittapelly/Desktop/LCS/SAT---reduction-and-usage/newproj/SAT-CNF/SAT-CNF.csproj",
+  "expectedPackageFiles": [
+    "/Users/shekharreddymittapelly/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/shekharreddymittapelly/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
